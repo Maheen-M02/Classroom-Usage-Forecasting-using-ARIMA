@@ -54,4 +54,4 @@ For any questions or concerns, please contact us at [support@example.com](mailto
 ## 💖 Thanks Message
 Thank you for considering the Classroom Usage Forecasting Project! We hope this project helps you with your electricity draw forecasting needs.
 
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
+
